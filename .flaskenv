@@ -1,0 +1,4 @@
+FLASK_APP=app.py
+FLASK_ENV=development
+FLASK_HOST=0.0.0.0
+FLASH_DEBUG=1
